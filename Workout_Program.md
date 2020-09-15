@@ -1,26 +1,28 @@
 # Workout Program
 
 ## Weekly
-| #Days/Exercises | Monday  *(ABS-LEG)*   | Tuesday  *(Chest)*   | Wednesday | Thursday *(Shoulder)* | Friday *(Back)*          | Saturday | Sunday    *(ARMs) *      |
-|-----------------|-----------------------|----------------------|-----------|-----------------------|--------------------------|----------|--------------------------|
-|                 | Hardstyle plank       | Side bend            | REST DAY  | Lateral raise         | Reverse flye             | REST DAY | Seated Concentrated Curl |
-|                 | Push-Ups              | Floor press          | REST DAY  | Front raise           | Bent Over Row            | REST DAY | Biceps curl              |
-|                 | Squat                 | Pullover             | REST DAY  | Arnold press          | Dead bug                 | REST DAY | Hammer curl              |
-|                 | Lateral Lunge         | Lying Fly            | REST DAY  | Reverse flye          | Bend to Opposite Foot    | REST DAY | Triceps extension        |
-|                 | Upright Row           | Leg Drops            | REST DAY  | Push-Ups              | Triceps extension        | REST DAY | Triceps kick-back        |
-|                 | Hammer curl           | Crunch               | REST DAY  | Hardstyle plank       | Palms-Up-Dows Wrist Curl | REST DAY | Close-Grip Pushup        |
-|                 | Triceps extension     | Shoulder Press       | REST DAY  | Toe Raise             | Pullover  *(Not-Seated)* | REST DAY | Palms-Up Wrist Curl      |
-|                 | Bend to Opposite Foot | Hammer bent-over row | REST DAY  | Squat                 | Dead Lift                | REST DAY | Palms-Down Wrist Curl    |
-|                 | Shrug                 | Dead Lift            | REST DAY  | Biceps curl           | Seated Concentrated Curl | REST DAY | Side bend                |
+
+| #Days/Exercises | Monday  *(ABS-LEG)*   | Tuesday  *(Chest)*   | Wednesday | Thursday *(Shoulder)* | Friday *(Back)*          | Saturday | Sunday  *(ARMs)*          |
+| --------------- | --------------------- | -------------------- | --------- | --------------------- | ------------------------ | -------- | ------------------------- |
+|                 | Hardstyle plank       | Seated Russian Twist | (-)       | Lateral raise         | Reverse flye             | (-)      | Seated Concentrated Curl  |
+|                 | Push-Ups              | Floor press          | (-)       | Front raise           | Bent Over Row            | (-)      | Biceps curl               |
+|                 | Squat                 | Pullover             | (-)       | Arnold press          | Dead bug                 | (-)      | Hammer curl               |
+|                 | Lateral Lunge         | Lying Fly            | (-)       | Reverse flye          | Bend to Opposite Foot    | (-)      | Triceps extension         |
+|                 | Upright Row           | Leg Drops            | (-)       | Push-Ups              | Triceps extension        | (-)      | Triceps kick-back         |
+|                 | Hammer curl           | Crunch               | (-)       | Hardstyle plank       | Palms-Up-Dows Wrist Curl | (-)      | Close-Grip Pushup         |
+|                 | Triceps extension     | Shoulder Press       | (-)       | Toe Raise             | Pullover  *(Not-Seated)* | (-)      | Palms(Up-Down) Wrist Curl |
+|                 | Bend to Opposite Foot | Hammer bent-over row | (-)       | Squat                 | Dead Lift                | (-)      | Reverse Curls             |
+|                 | Shrug                 | Dead Lift            | (-)       | Biceps curl           | Seated Concentrated Curl | (-)      | Side bend                 |
 
 
 ## All Exercises
+
 | #Muscle Group | 1                    | 2                     | 3                        | 4                             | 5              | 6      |
-|---------------|----------------------|-----------------------|--------------------------|-------------------------------|----------------|--------|
+| ------------- | -------------------- | --------------------- | ------------------------ | ----------------------------- | -------------- | ------ |
 | ABS           | Leg Drops            | Side bend             | Side Plank               | Hardstyle plank               | Dead bug       | Crunch |
 | Chest         | Floor press          | Pullover              | Push-Ups                 | Close Grip Pushup on Dumbbell | Lying Fly      |        |
 | Shoulder      | Lateral raise        | Arnold press          | Front raise              | Upright Row                   | Shoulder Press | Shrug  |
-| Biceps        | Biceps curl          | Hammer curl           | Seated Concentrated Curl |                               |                |        |
+| Biceps        | Biceps curl          | Hammer curl           | Seated Concentrated Curl | Reverse Curls                 | Zottman Curl   |        |
 | Trieceps      | Triceps extension    | Triceps kick-back     | Lying Triceps Extension  | Close-Grip Pushup             |                |        |
 | Forearms      | Palms-Up Wrist Curl  | Palms-Down Wrist Curl |                          |                               |                |        |
 | Back          | Hammer bent-over row | Reverse flye          | Bent Over Row            | Bend to Opposite Foot         | Wide Row       |        |
